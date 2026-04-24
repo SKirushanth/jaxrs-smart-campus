@@ -371,9 +371,4 @@ A JAX-RS filter logs every request method and URL, plus the response status. Thi
 - Trigger `409` by deleting a room with active sensors
 - Trigger `403` by posting to a MAINTENANCE sensor
 
-## Submission Notes
 
-- Push source code to GitHub
-- Include this README
-- Add screenshots or Postman export if required
-- Tag a stable submission version if needed
